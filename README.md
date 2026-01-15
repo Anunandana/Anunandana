@@ -11,6 +11,12 @@
 - React (Basics)  
 - Machine Learning  
 
-### Connect with me
-- LinkedIn: https://www.linkedin.com/in/anunandana-m-38000a267  
-- GitHub: https://github.com/Anunandana  
+<h3 align="left">Connect With Me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/anunandana-m-38000a267" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+  <a href="mailto:anunandanam55@gmail.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/>
+  </a>
+</p>
