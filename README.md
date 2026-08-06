@@ -6,6 +6,7 @@
  Kozhikode, Kerala  
 
 ### Skills
+- Azure 
 - HTML, CSS, JavaScript  
 - Python  
 - React (Basics)  
